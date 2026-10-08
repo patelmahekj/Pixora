@@ -189,17 +189,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 👤 My Contribution
-
-This was a group project. My individual contributions were:
-
-- Designed the SQLite database layer, including the user account and
-  OTP tables with expiry and lockout tracking.
-- Built the admin dashboard for managing user accounts — verification
-  status, blocking/unblocking, and account deletion.
-
----
-
 ## ⚠️ Current Limitations
 
 - Password storage and credential management should follow the
