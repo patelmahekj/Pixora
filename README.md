@@ -1,18 +1,10 @@
 # 📄 Pixora
 
-## Instant, Field-Driven Document Generation
-
-> **Fill in your details. Preview live. Print or export instantly.**
-
 Pixora is a Flask-based web application that generates ten different
 types of printable documents from user-entered data, with a live
 preview and one-click print/export. It includes secure OTP-based
 account verification and a separate admin dashboard for user
 management.
-
-Pixora was built as a **group project**.
-
----
 
 ## 📌 Table of Contents
 
@@ -79,7 +71,7 @@ Pixora was built as a **group project**.
 - SMTP-based email delivery for OTP verification
 
 ### Frontend
-- HTML / CSS / JavaScript (server-rendered templates)
+- HTML / CSS / JavaScript 
 
 ### Development Tools
 - Git and GitHub
@@ -196,9 +188,3 @@ http://127.0.0.1:5000
   deployment.
 - Document templates are currently fixed; further customization
   options could be added in future iterations.
-
----
-
-## 📄 License
-
-Add the appropriate project license before public distribution.
